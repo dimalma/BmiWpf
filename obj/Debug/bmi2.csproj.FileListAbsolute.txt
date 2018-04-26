@@ -1,0 +1,14 @@
+C:\git\bmi2\bmi2\bin\Debug\bmi2.exe.config
+C:\git\bmi2\bmi2\bin\Debug\bmi2.exe
+C:\git\bmi2\bmi2\bin\Debug\bmi2.pdb
+C:\git\bmi2\bmi2\obj\Debug\bmi2.csprojResolveAssemblyReference.cache
+C:\git\bmi2\bmi2\obj\Debug\MainWindow.g.cs
+C:\git\bmi2\bmi2\obj\Debug\App.g.cs
+C:\git\bmi2\bmi2\obj\Debug\bmi2_MarkupCompile.cache
+C:\git\bmi2\bmi2\obj\Debug\bmi2_MarkupCompile.lref
+C:\git\bmi2\bmi2\obj\Debug\MainWindow.baml
+C:\git\bmi2\bmi2\obj\Debug\bmi2.g.resources
+C:\git\bmi2\bmi2\obj\Debug\bmi2.Properties.Resources.resources
+C:\git\bmi2\bmi2\obj\Debug\bmi2.csproj.GenerateResource.Cache
+C:\git\bmi2\bmi2\obj\Debug\bmi2.exe
+C:\git\bmi2\bmi2\obj\Debug\bmi2.pdb
